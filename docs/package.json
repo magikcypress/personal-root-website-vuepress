@@ -1,0 +1,19 @@
+{
+  "name": "personal-website",
+  "version": "0.0.1",
+  "description": "My life and more...",
+  "main": "index.js",
+  "authors": {
+    "name": "Vincent",
+    "email": "cyp@duck.com"
+  },
+  "repository": "personal-root-website/personal-website",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
