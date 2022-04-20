@@ -38,6 +38,7 @@ module.exports = {
     // default value is true. Set it to false to hide prev page links on all pages
     prevLinks: true,
     sidebar: false,
+    base: 'QmYWcKrNA9QGdnxDFxb9dEg15qyJd564BZhiHwmd2FUkFA',
 /*    nav: [
       {
         text: 'Personal life',
@@ -73,5 +74,6 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    '@vuepress/vuepress-plugin-ipfs',
   ]
 }
