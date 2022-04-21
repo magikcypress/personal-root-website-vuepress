@@ -5,13 +5,13 @@ description: false
 search: false
 ---
 
-![My face](/img/me.jpg)
+<img :src="$withBase('/img/me.jpg')" alt="My face">
 
 ## Personal life
 
 I'am presales, I'm specialist with data and business intelligent
 
-[Follow my life](/personal/)
+<a :href="$withBase('/personal/')">Follow my life</a>
 
 ::: tip
 [My first experience with my first professional life](http://vincent.legeard.info/cv)
@@ -21,4 +21,4 @@ I'am presales, I'm specialist with data and business intelligent
 
 I've been to a few countries, many outside of Europe. I know very little about the European continent while I live there. The projects will be done over time and I should be able to find the time to travel to Italy, Norway, Scotland or Greece...
 
-[Follow my travel](/trav/Maroc.html)
+<a :href="$withBase('/travel/Maroc.html')">Follow my travel</a>

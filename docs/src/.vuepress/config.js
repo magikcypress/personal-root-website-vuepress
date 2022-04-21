@@ -38,7 +38,7 @@ module.exports = {
     // default value is true. Set it to false to hide prev page links on all pages
     prevLinks: true,
     sidebar: false,
-    base: 'QmYWcKrNA9QGdnxDFxb9dEg15qyJd564BZhiHwmd2FUkFA',
+    base: '/ipfs/QmRhDa8ZFyz4bTEarEHcRuFNhos5mqsYKZS9sQcTJGVAcW/',
 /*    nav: [
       {
         text: 'Personal life',
