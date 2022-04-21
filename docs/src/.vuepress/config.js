@@ -9,6 +9,10 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
   description: description,
+  /**
+   * Ref：https://npmmirror.com/package/vuepress-plugin-ipfs
+   */
+  base: '/ipfs/QmRhDa8ZFyz4bTEarEHcRuFNhos5mqsYKZS9sQcTJGVAcW/',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -38,7 +42,6 @@ module.exports = {
     // default value is true. Set it to false to hide prev page links on all pages
     prevLinks: true,
     sidebar: false,
-    base: '/ipfs/QmRhDa8ZFyz4bTEarEHcRuFNhos5mqsYKZS9sQcTJGVAcW/',
 /*    nav: [
       {
         text: 'Personal life',
