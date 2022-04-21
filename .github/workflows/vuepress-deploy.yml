@@ -15,3 +15,9 @@ jobs:
         TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: docs/src/.vuepress/dist/
+
+    - name: ipfs-action
+      uses: aquiladev/ipfs-action@v0.1.1
+      id: upload
+      with:
+        path: docs/src/.vuepress/dist/
