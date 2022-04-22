@@ -1,6 +1,7 @@
           
 {
     "name": "personal-root-website-vuepress",
+    "license": "MIT",
     "scripts": {
         "dev": "vuepress dev docs",
         "build": "vuepress build docs"

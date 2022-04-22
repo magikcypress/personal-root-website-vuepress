@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "My life and more...",
   "main": "index.js",
+  "license": "MIT",
   "authors": {
     "name": "Vincent",
     "email": "cyp@duck.com"
