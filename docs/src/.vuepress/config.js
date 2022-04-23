@@ -12,7 +12,7 @@ module.exports = {
   /**
    * Ref：https://npmmirror.com/package/vuepress-plugin-ipfs
    */
-   base: 'ipns/_ipfs.rouquin.me/',
+   // base: 'ipns/_ipfs.rouquin.me/',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
