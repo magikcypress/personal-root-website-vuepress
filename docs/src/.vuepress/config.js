@@ -22,12 +22,13 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/public/favicons/apple-touch-icon.png"}],
-    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/public/favicons/favicon-32x32.png"}],
-    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/public/favicons/favicon-16x16.png"}],
-    ['link', { rel: "manifest", href: "/public/favicons/site.webmanifest"}],
-    ['link', { rel: "shortcut icon", href: "/public/favicons/favicon.ico"}],
+    ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/favicons/apple-touch-icon.png"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/favicons/favicon-32x32.png"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicons/favicon-16x16.png"}],
+    ['link', { rel: "manifest", href: "/favicons/site.webmanifest"}],
+    ['link', { rel: "shortcut icon", href: "/favicons/favicon.ico"}],
     ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
+    ['meta', { name: "robots", content: "noindex,nofollow"}]
   ],
 
   /**
@@ -36,7 +37,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: '',
+    repo: 'https://github.com/magikcypress/personal-root-website-vuepress.git',
     editLinks: false,
     docsDir: '',
     editLinkText: '',
@@ -46,7 +47,7 @@ module.exports = {
     nextLinks: true,
     // default value is true. Set it to false to hide prev page links on all pages
     prevLinks: true,
-    sidebar: false,
+    sidebar: true,
 /*    nav: [
       {
         text: 'Personal life',

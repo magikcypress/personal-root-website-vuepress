@@ -1,6 +1,6 @@
 {
   "name": "personal-website",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "My life and more...",
   "main": "index.js",
   "license": "MIT",
@@ -15,7 +15,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.3",
+    "vuepress": "^2.0.0",
     "vuepress-plugin-ipfs": "^1.0.2"
   }
 }
