@@ -1,17 +1,18 @@
 ---
 home: false
-heroImage: /img/me.jpg
+heroImage: /img/cat.jpg
 description: false
+sidebar: false
 search: false
 ---
 
-<img :src="$withBase('/img/me.jpg')" alt="My face">
+<img :src="$withBase('/img/cat.jpg')" alt="Little cat">
 
 ## Personal life
 
 I'am presales, I'm specialist with data and business intelligent
 
-<a :href="$withBase('/personal/')">Follow my life</a>
+<!--a :href="$withBase('/personal/')">Follow my life</a-->
 
 ::: tip
 [My first experience with my first professional life](http://vincent.legeard.info/cv)
@@ -25,4 +26,24 @@ I've been to a few countries, many outside of Europe. I know very little about t
 
 ## Passion
 
-Read, write and live...
+Reading...
+
+- Une rose seule de Muriel Barbery (ISBN-10 2330165366)
+- Ceux qui partent de Jeanne Benameur (ISBN-10 2330153058)
+- Tout le bleu du ciel de Mélissa Da Costa (ISBN-10 2253934100)
+- Les Déracinés de Catherine Bardon (ISBN-10 2266300458)
+- L'Américaine de Catherine Bardon (ISBN-10 2266287303)
+- Et la vie reprit son cours de Catherine Bardon (ISBN-10 2266315412)
+- Un invincible été de Catherine Bardon (ISBN-10 2266315412)
+- En attendant Bojangles de Olivier Bourdeaut (ISBN-10 2072844819)
+- La tresse de Laetitia Colombani (ISBN-10 2253906565)
+- L'infortunée de Wesley Stace (ISBN-10 2744192570)
+- Queen de Alex Haley et David Stevens (ISBN-10 2266064444)
+- Regardez-nous danser de Leïla Slimani (ISBN-10 2072972558)
+- Le pays des autres de Leïla Slimani (ISBN-10 2072923476)
+- Soleil amer de Lilia Hassaine (ISBN-10 2072952174)
+- L'oeil du paon de Lilia Hassaine (ISBN-10 2072921562)
+- les impatientes de djaïli amadou amal (ISBN-10 2290252948)
+- Ibrahim de Frederic Benque (ISBN-10 2848600357)
+- New York sans New York de Philippe Delerm (ISBN-10 2021342905)
+- L'enfant qui regarde de Dany Laferrière (ISBN-10 2246829054)

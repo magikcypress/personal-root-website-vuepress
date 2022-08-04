@@ -21,7 +21,13 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['link', { rel: "apple-touch-icon", sizes: "180x180", href: "/public/favicons/apple-touch-icon.png"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/public/favicons/favicon-32x32.png"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/public/favicons/favicon-16x16.png"}],
+    ['link', { rel: "manifest", href: "/public/favicons/site.webmanifest"}],
+    ['link', { rel: "shortcut icon", href: "/public/favicons/favicon.ico"}],
+    ['meta', { name: "msapplication-TileColor", content: "#3a0839"}],
   ],
 
   /**
@@ -64,6 +70,11 @@ module.exports = {
             '',
             'Maroc',
             'Vietnam',
+            'Bresil',
+            'AmeriqueduSud',
+            'Liban',
+            'Canada',
+            'Japon',
           ]
         }
       ],
