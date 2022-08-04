@@ -67,9 +67,6 @@ I've been to a few countries, many outside of Europe. I know very little about t
 >  L'enfant qui regarde de Dany Laferrière (ISBN-10 2246829054)
 
 **Listening...**
-
-
-
 	
 > Kid Francescoli - Lovers 
 Yotanka Records
