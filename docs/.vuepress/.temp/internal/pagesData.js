@@ -3,8 +3,8 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress2/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /fr/
   "v-2d0a8b4a": () => import(/* webpackChunkName: "v-2d0a8b4a" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress2/docs/.vuepress/.temp/pages/fr/index.html.js").then(({ data }) => data),
-  // path: /personal/
-  "v-314ef716": () => import(/* webpackChunkName: "v-314ef716" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress2/docs/.vuepress/.temp/pages/personal/index.html.js").then(({ data }) => data),
+  // path: /passion/
+  "v-1f2c46b1": () => import(/* webpackChunkName: "v-1f2c46b1" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress2/docs/.vuepress/.temp/pages/passion/index.html.js").then(({ data }) => data),
   // path: /travel/AmeriqueduSud.html
   "v-215de1b5": () => import(/* webpackChunkName: "v-215de1b5" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress2/docs/.vuepress/.temp/pages/travel/AmeriqueduSud.html.js").then(({ data }) => data),
   // path: /travel/Bresil.html
@@ -21,8 +21,8 @@ export const pagesData = {
   "v-ee703c06": () => import(/* webpackChunkName: "v-ee703c06" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress2/docs/.vuepress/.temp/pages/travel/Vietnam.html.js").then(({ data }) => data),
   // path: /travel/
   "v-2a6ed73c": () => import(/* webpackChunkName: "v-2a6ed73c" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress2/docs/.vuepress/.temp/pages/travel/index.html.js").then(({ data }) => data),
-  // path: /passion/
-  "v-1f2c46b1": () => import(/* webpackChunkName: "v-1f2c46b1" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress2/docs/.vuepress/.temp/pages/passion/index.html.js").then(({ data }) => data),
+  // path: /personal/
+  "v-314ef716": () => import(/* webpackChunkName: "v-314ef716" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress2/docs/.vuepress/.temp/pages/personal/index.html.js").then(({ data }) => data),
   // path: /fr/passion/
   "v-60ca03fc": () => import(/* webpackChunkName: "v-60ca03fc" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress2/docs/.vuepress/.temp/pages/fr/passion/index.html.js").then(({ data }) => data),
   // path: /fr/personal/

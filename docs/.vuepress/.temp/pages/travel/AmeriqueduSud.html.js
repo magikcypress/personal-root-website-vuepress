@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-215de1b5\",\"path\":\"/travel/AmeriqueduSud.html\",\"title\":\"South America\",\"lang\":\"en-US\",\"frontmatter\":{\"sidebar\":false},\"excerpt\":\"\",\"headers\":[],\"git\":{},\"filePathRelative\":\"travel/AmeriqueduSud.md\"}")
+export const data = JSON.parse("{\"key\":\"v-215de1b5\",\"path\":\"/travel/AmeriqueduSud.html\",\"title\":\"South America\",\"lang\":\"en-US\",\"frontmatter\":{\"sidebar\":false},\"excerpt\":\"\",\"headers\":[],\"git\":{\"updatedTime\":1659697281000,\"contributors\":[{\"name\":\"magikcypress\",\"email\":\"cyp@rouquin.me\",\"commits\":1}]},\"filePathRelative\":\"travel/AmeriqueduSud.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
