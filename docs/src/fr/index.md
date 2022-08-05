@@ -8,26 +8,26 @@ search: false
 
 <img :src="$withBase('/img/cat.jpg')" alt="Little cat">
 
-## Personal life
+## Vie personnelle
 
-I'am presales, I'm specialist with data and business intelligent. <br/>
-On my first life, I was web developer. I ❤️ to write code.
+Je suis avant-vente, je suis spécialiste des données et de l'intelligence commerciale. <br/>
+Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.
 
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
 
 ::: tip
-[You see my first professional life](http://vincent.legeard.info/cv)
+[Voir ma première vie professionnel](http://vincent.legeard.info/cv)
 :::
 
-## Travel
+## Voyages
 
-I've been to a few countries, many outside of Europe. I know very little about the European continent while I live there. The projects will be done over time and I should be able to find the time to travel to Italy, Norway, Scotland or Greece...
+Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pendant que j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...
 
-<a :href="$withBase('/travel/Maroc.html')">Follow my travel</a>
+<a :href="$withBase('/travel/Maroc.html')">Suivre mes voyages</a>
 
 ## Passion
 
-**Reading...**
+**Lecture...**
 
 >  Une rose seule de Muriel Barbery (ISBN-10 2330165366)
 
@@ -67,7 +67,7 @@ I've been to a few countries, many outside of Europe. I know very little about t
 
 >  L'enfant qui regarde de Dany Laferrière (ISBN-10 2246829054)
 
-**Listening...**
+**Ecoute...**
 	
 > Kid Francescoli - Lovers 
 (Yotanka Records)

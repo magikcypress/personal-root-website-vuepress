@@ -31,6 +31,21 @@ module.exports = {
     ['meta', { name: "robots", content: "noindex,nofollow"}]
   ],
 
+  locales: {
+    // The key is the path for the locale to be nested under.
+    // As a special case, the default locale can use '/' as its path.
+    '/': {
+      lang: 'en-US', // this will be set as the lang attribute on <html>
+      title: 'Personal Root Website',
+      description: description
+    },
+    '/fr/': {
+      lang: 'fr-FR',
+      title: 'Personal Root Website',
+      description: description
+    }
+  },
+
   /**
    * Theme configuration, here is the default theme configuration for VuePress.
    *
