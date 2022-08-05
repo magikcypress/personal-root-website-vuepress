@@ -3,14 +3,21 @@
 <p>Je suis avant-vente, je suis spécialiste des données et de l'intelligence commerciale. <br/>
 Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.</p>
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
-<div class="custom-container tip"><p class="custom-container-title">TIP</p>
+<div class="custom-container tip"><p class="custom-container-title">Lien externe</p>
 <p><a href="http://vincent.legeard.info/cv" target="_blank" rel="noopener noreferrer">Voir ma première vie professionnel<ExternalLinkIcon/></a></p>
 </div>
 <h2 id="voyages" tabindex="-1"><a class="header-anchor" href="#voyages" aria-hidden="true">#</a> Voyages</h2>
 <p>Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pendant que j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...</p>
+<div class="custom-container tip"><p class="custom-container-title">Lien interne</p>
 <p><a :href="$withBase('/travel/Maroc.html')">Suivre mes voyages</a></p>
+</div>
 <h2 id="passion" tabindex="-1"><a class="header-anchor" href="#passion" aria-hidden="true">#</a> Passion</h2>
-<p><strong>Lecture...</strong></p>
+<h3 id="manger" tabindex="-1"><a class="header-anchor" href="#manger" aria-hidden="true">#</a> Manger...</h3>
+<p>Retrouver une sélection de restaurants Parisiens que je mets régulièrement à jour.</p>
+<div class="custom-container tip"><p class="custom-container-title">Lien externe</p>
+<p><a href="https://resto.rouquin.me/" target="_blank" rel="noopener noreferrer">Liste des restos Parisiens<ExternalLinkIcon/></a></p>
+</div>
+<h3 id="lecture" tabindex="-1"><a class="header-anchor" href="#lecture" aria-hidden="true">#</a> Lecture...</h3>
 <blockquote>
 <p>Une rose seule de Muriel Barbery (ISBN-10 2330165366)</p>
 </blockquote>
@@ -68,7 +75,10 @@ Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.</p>
 <blockquote>
 <p>L'enfant qui regarde de Dany Laferrière (ISBN-10 2246829054)</p>
 </blockquote>
-<p><strong>Ecoute...</strong></p>
+<div class="custom-container warning"><p class="custom-container-title">Offre moi un bien beau livre ❤️</p>
+<p><a href="https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08" target="_blank" rel="noopener noreferrer">Liste des envies sur la FNAC<ExternalLinkIcon/></a></p>
+</div>
+<h3 id="ecoute" tabindex="-1"><a class="header-anchor" href="#ecoute" aria-hidden="true">#</a> Ecoute...</h3>
 <blockquote>
 <p>Kid Francescoli - Lovers
 (Yotanka Records)</p>
@@ -205,4 +215,7 @@ Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.</p>
 <p>Portishead - Dummy
 (Go! Beat)</p>
 </blockquote>
+<div class="custom-container warning"><p class="custom-container-title">Offre moi un bien beau Vinyl ❤️</p>
+<p><a href="https://www.discogs.com/fr/wantlist?user=magikcypress" target="_blank" rel="noopener noreferrer">Liste des envies sur Discogs<ExternalLinkIcon/></a></p>
+</div>
 </div></template>

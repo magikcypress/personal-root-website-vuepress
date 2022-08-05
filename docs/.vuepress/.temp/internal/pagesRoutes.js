@@ -1,6 +1,8 @@
 export const pagesRoutes = [
   ["v-8daa1a0e","/",{"title":""},["/index.html","/index.md"]],
   ["v-2d0a8b4a","/fr/",{"title":""},["/fr/index.html","/fr/index.md"]],
+  ["v-1f2c46b1","/passion/",{"title":"Passion"},["/passion/index.html","/passion/index.md"]],
+  ["v-314ef716","/personal/",{"title":"Personal life"},["/personal/index.html","/personal/index.md"]],
   ["v-215de1b5","/travel/AmeriqueduSud.html",{"title":"South America"},["/travel/AmeriqueduSud","/travel/AmeriqueduSud.md"]],
   ["v-669be5fc","/travel/Bresil.html",{"title":"Brazil"},["/travel/Bresil","/travel/Bresil.md"]],
   ["v-e0234422","/travel/Canada.html",{"title":"Canada"},["/travel/Canada","/travel/Canada.md"]],
@@ -9,9 +11,8 @@ export const pagesRoutes = [
   ["v-1320767a","/travel/Maroc.html",{"title":"Marocco"},["/travel/Maroc","/travel/Maroc.md"]],
   ["v-ee703c06","/travel/Vietnam.html",{"title":"Vietnam"},["/travel/Vietnam","/travel/Vietnam.md"]],
   ["v-2a6ed73c","/travel/",{"title":"My travel"},["/travel/index.html","/travel/index.md"]],
-  ["v-1f2c46b1","/passion/",{"title":"Passion"},["/passion/index.html","/passion/index.md"]],
-  ["v-314ef716","/personal/",{"title":"Personal life"},["/personal/index.html","/personal/index.md"]],
   ["v-60ca03fc","/fr/passion/",{"title":"Passion"},["/fr/passion/index.html","/fr/passion/index.md"]],
+  ["v-e291ac36","/fr/personal/",{"title":"Personal life"},["/fr/personal/index.html","/fr/personal/index.md"]],
   ["v-157c9684","/fr/travel/AmeriqueduSud.html",{"title":"Amérique du sud"},["/fr/travel/AmeriqueduSud","/fr/travel/AmeriqueduSud.md"]],
   ["v-7dae6c0d","/fr/travel/Bresil.html",{"title":"Brésil"},["/fr/travel/Bresil","/fr/travel/Bresil.md"]],
   ["v-b1fe3800","/fr/travel/Canada.html",{"title":"Canada"},["/fr/travel/Canada","/fr/travel/Canada.md"]],
@@ -20,6 +21,5 @@ export const pagesRoutes = [
   ["v-a6488edc","/fr/travel/Maroc.html",{"title":"Maroc"},["/fr/travel/Maroc","/fr/travel/Maroc.md"]],
   ["v-54061e0c","/fr/travel/Vietnam.html",{"title":"Vietnam"},["/fr/travel/Vietnam","/fr/travel/Vietnam.md"]],
   ["v-02d91c6a","/fr/travel/",{"title":"My travel"},["/fr/travel/index.html","/fr/travel/index.md"]],
-  ["v-e291ac36","/fr/personal/",{"title":"Personal life"},["/fr/personal/index.html","/fr/personal/index.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
 ]

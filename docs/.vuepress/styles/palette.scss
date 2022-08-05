@@ -8,11 +8,13 @@
     // brand colors
     --c-brand: #4176f1;
     --c-brand-light: #d2d9e9;
+    --c-text-lighter: #4176f1;
 
     --c-bg-page: url("/img/ground.gif");
 
     --c-text-accent: var(--c-brand);
     --c-tip: #4176f1;
+    --c-tip-bg: #e4eaf4;
     --c-tip-text: var(--c-brand);
     --c-tip-text-accent: var(--c-text-accent);
 }
@@ -38,8 +40,9 @@ html.dark {
     // text colors
     --c-text: #ffffff;
     --c-text-light: #96a7b7;
-    --c-text-lighter: #8b9eb0;
+    --c-text-lighter: #d2d9e9;
     --c-text-lightest: #8094a8;
+    --c-text-quote: #ffffff;
   
     // border colors
     --c-border: #3e4c5a;

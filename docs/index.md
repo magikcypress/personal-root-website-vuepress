@@ -15,7 +15,7 @@ On my first life, I was web developer. I ❤️ to write code.
 
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
 
-::: tip
+::: tip External Link
 [You see my first professional life](http://vincent.legeard.info/cv)
 :::
 
@@ -23,11 +23,21 @@ On my first life, I was web developer. I ❤️ to write code.
 
 I've been to a few countries, many outside of Europe. I know very little about the European continent while I live there. The projects will be done over time and I should be able to find the time to travel to Italy, Norway, Scotland or Greece...
 
+::: tip Internal Link
 <a :href="$withBase('/travel/Maroc.html')">Follow my travel</a>
+:::
 
 ## Passion
 
-**Reading...**
+### Eating...
+
+Find a selection of Parisian restaurants that I update frequently.
+
+::: tip External Link
+[List of Parisian restaurants](https://resto.rouquin.me/)
+:::
+
+### Reading...
 
 >  Une rose seule de Muriel Barbery (ISBN-10 2330165366)
 
@@ -67,7 +77,11 @@ I've been to a few countries, many outside of Europe. I know very little about t
 
 >  L'enfant qui regarde de Dany Laferrière (ISBN-10 2246829054)
 
-**Listening...**
+::: warning Give me a beautiful book ❤️
+[Wantlist on FNAC](https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08)
+:::
+
+### Listening...
 	
 > Kid Francescoli - Lovers 
 (Yotanka Records)
@@ -170,3 +184,7 @@ I've been to a few countries, many outside of Europe. I know very little about t
 
 > Portishead - Dummy
 (Go! Beat)
+
+::: warning Give me a beautiful vinyl ❤️
+[Wantlist on Discogs](https://www.discogs.com/fr/wantlist?user=magikcypress)
+:::

@@ -15,7 +15,7 @@ Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.
 
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
 
-::: tip
+::: tip Lien externe
 [Voir ma première vie professionnel](http://vincent.legeard.info/cv)
 :::
 
@@ -23,11 +23,21 @@ Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.
 
 Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pendant que j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...
 
+::: tip  Lien interne
 <a :href="$withBase('/travel/Maroc.html')">Suivre mes voyages</a>
+:::
 
 ## Passion
 
-**Lecture...**
+### Manger...
+
+Retrouver une sélection de restaurants Parisiens que je mets régulièrement à jour.
+
+::: tip  Lien externe
+[Liste des restos Parisiens](https://resto.rouquin.me/)
+:::
+
+### Lecture...
 
 >  Une rose seule de Muriel Barbery (ISBN-10 2330165366)
 
@@ -67,7 +77,11 @@ Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connai
 
 >  L'enfant qui regarde de Dany Laferrière (ISBN-10 2246829054)
 
-**Ecoute...**
+::: warning Offre moi un bien beau livre ❤️
+[Liste des envies sur la FNAC](https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08)
+:::
+
+### Ecoute...
 	
 > Kid Francescoli - Lovers 
 (Yotanka Records)
@@ -170,3 +184,7 @@ Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connai
 
 > Portishead - Dummy
 (Go! Beat)
+
+::: warning Offre moi un bien beau Vinyl ❤️
+[Liste des envies sur Discogs](https://www.discogs.com/fr/wantlist?user=magikcypress)
+:::

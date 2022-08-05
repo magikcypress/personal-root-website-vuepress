@@ -3,14 +3,21 @@
 <p>I'am presales, I'm specialist with data and business intelligent. <br/>
 On my first life, I was web developer. I ❤️ to write code.</p>
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
-<div class="custom-container tip"><p class="custom-container-title">TIP</p>
+<div class="custom-container tip"><p class="custom-container-title">External Link</p>
 <p><a href="http://vincent.legeard.info/cv" target="_blank" rel="noopener noreferrer">You see my first professional life<ExternalLinkIcon/></a></p>
 </div>
 <h2 id="travel" tabindex="-1"><a class="header-anchor" href="#travel" aria-hidden="true">#</a> Travel</h2>
 <p>I've been to a few countries, many outside of Europe. I know very little about the European continent while I live there. The projects will be done over time and I should be able to find the time to travel to Italy, Norway, Scotland or Greece...</p>
+<div class="custom-container tip"><p class="custom-container-title">Internal Link</p>
 <p><a :href="$withBase('/travel/Maroc.html')">Follow my travel</a></p>
+</div>
 <h2 id="passion" tabindex="-1"><a class="header-anchor" href="#passion" aria-hidden="true">#</a> Passion</h2>
-<p><strong>Reading...</strong></p>
+<h3 id="eating" tabindex="-1"><a class="header-anchor" href="#eating" aria-hidden="true">#</a> Eating...</h3>
+<p>Find a selection of Parisian restaurants that I update frequently.</p>
+<div class="custom-container tip"><p class="custom-container-title">External Link</p>
+<p><a href="https://resto.rouquin.me/" target="_blank" rel="noopener noreferrer">List of Parisian restaurants<ExternalLinkIcon/></a></p>
+</div>
+<h3 id="reading" tabindex="-1"><a class="header-anchor" href="#reading" aria-hidden="true">#</a> Reading...</h3>
 <blockquote>
 <p>Une rose seule de Muriel Barbery (ISBN-10 2330165366)</p>
 </blockquote>
@@ -68,7 +75,10 @@ On my first life, I was web developer. I ❤️ to write code.</p>
 <blockquote>
 <p>L'enfant qui regarde de Dany Laferrière (ISBN-10 2246829054)</p>
 </blockquote>
-<p><strong>Listening...</strong></p>
+<div class="custom-container warning"><p class="custom-container-title">Give me a beautiful book ❤️</p>
+<p><a href="https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08" target="_blank" rel="noopener noreferrer">Wantlist on FNAC<ExternalLinkIcon/></a></p>
+</div>
+<h3 id="listening" tabindex="-1"><a class="header-anchor" href="#listening" aria-hidden="true">#</a> Listening...</h3>
 <blockquote>
 <p>Kid Francescoli - Lovers
 (Yotanka Records)</p>
@@ -205,4 +215,7 @@ On my first life, I was web developer. I ❤️ to write code.</p>
 <p>Portishead - Dummy
 (Go! Beat)</p>
 </blockquote>
+<div class="custom-container warning"><p class="custom-container-title">Give me a beautiful vinyl ❤️</p>
+<p><a href="https://www.discogs.com/fr/wantlist?user=magikcypress" target="_blank" rel="noopener noreferrer">Wantlist on Discogs<ExternalLinkIcon/></a></p>
+</div>
 </div></template>
