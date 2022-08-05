@@ -1,12 +1,16 @@
 {
-    "name": "personal-root-website-vuepress",
-    "license": "MIT",
-    "scripts": {
-        "dev": "vuepress dev docs",
-        "build": "vuepress build docs"
-    },
-    "devDependencies": {
-        "vuepress": "^2.0.0-beta.49",
-        "vuepress-plugin-data": "^2.0.0"
-    }
+  "name": "personal-root-website-vuepress",
+  "version": "1.0.0",
+  "description": "Personal Root Website",
+  "main": "index.js",
+  "repository": "https://github.com/magikcypress/personal-root-website-vuepress",
+  "author": "magikcypress <cyp@rouquin.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.49"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
 }
