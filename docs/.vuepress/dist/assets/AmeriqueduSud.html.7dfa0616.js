@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-157c9684","path":"/fr/travel/AmeriqueduSud.html","title":"Am\xE9rique du sud","lang":"Fran\xE7ais","frontmatter":{"sidebar":false},"excerpt":"","headers":[],"git":{"updatedTime":1659697281000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":1}]},"filePathRelative":"fr/travel/AmeriqueduSud.md"}');export{e as data};
