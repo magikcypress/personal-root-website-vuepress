@@ -10,7 +10,7 @@ search: false
 
 ## Vie personnelle
 
-Je suis avant-vente, je suis spécialiste des données et de l'intelligence commerciale. <br/>
+Je suis avant-vente, et je me suis spécialisé dans la donnée et l'analyse décisionnelle. <br/>
 Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.
 
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
