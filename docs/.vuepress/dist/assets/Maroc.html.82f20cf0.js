@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-a6488edc","path":"/fr/travel/Maroc.html","title":"Maroc","lang":"Fran\xE7ais","frontmatter":{"sidebar":false},"excerpt":"","headers":[],"git":{"updatedTime":1659697281000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":1}]},"filePathRelative":"fr/travel/Maroc.md"}');export{a as data};
