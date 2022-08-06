@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-b1fe3800","path":"/fr/travel/Canada.html","title":"Canada","lang":"Fran\xE7ais","frontmatter":{"sidebar":false,"prev":"./Liban","next":"./Japon"},"excerpt":"","headers":[],"git":{"updatedTime":1659800329000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":2}]},"filePathRelative":"fr/travel/Canada.md"}');export{a as data};

@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-54061e0c","path":"/fr/travel/Vietnam.html","title":"Vietnam","lang":"Fran\xE7ais","frontmatter":{"sidebar":false,"prev":"./Maroc","next":"./Bresil"},"excerpt":"","headers":[],"git":{"updatedTime":1659800329000,"contributors":[{"name":"magikcypress","email":"cyp@rouquin.me","commits":2}]},"filePathRelative":"fr/travel/Vietnam.md"}');export{e as data};
