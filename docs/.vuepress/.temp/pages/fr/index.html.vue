@@ -1,10 +1,10 @@
 <template><div><img :src="$withBase('/img/cat.jpg')" alt="Little cat">
-<h2 id="vie-personnelle" tabindex="-1"><a class="header-anchor" href="#vie-personnelle" aria-hidden="true">#</a> Vie personnelle</h2>
-<p>Je suis avant-vente, je suis spécialiste des données et de l'intelligence commerciale. <br/>
+<h2 id="ma-plus-grande-vie" tabindex="-1"><a class="header-anchor" href="#ma-plus-grande-vie" aria-hidden="true">#</a> Ma plus grande vie</h2>
+<p>Je suis avant-vente, et je me suis spécialisé dans la donnée et l'analyse décisionnelle. <br/>
 Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.</p>
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
 <h3 id="competences" tabindex="-1"><a class="header-anchor" href="#competences" aria-hidden="true">#</a> Compétences</h3>
-<p>Retrouver sur ce bien joli donut, mes compétences professionnel et aussi personnel que j'applique au quotidien.</p>
+<p>Retrouver sur ce bien joli donut, mes compétences professionnelles et aussi personnelles que j'applique au quotidien.</p>
 <Chart id="chart_382ee149" data-code="{
   &quot;type&quot;: &quot;doughnut&quot;,
   &quot;data&quot;: {
@@ -61,9 +61,9 @@ Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.</p>
 <p><a href="http://vincent.legeard.info/cv" target="_blank" rel="noopener noreferrer">Voir ma première vie professionnel<ExternalLinkIcon/></a></p>
 </div>
 <h2 id="voyages" tabindex="-1"><a class="header-anchor" href="#voyages" aria-hidden="true">#</a> Voyages</h2>
-<p>Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pendant que j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...</p>
+<p>Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pourtant j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...</p>
 <div class="custom-container tip"><p class="custom-container-title">Lien interne</p>
-<p><a :href="$withBase('/travel/Maroc.html')">Suivre mes voyages</a></p>
+<p><a :href="$withBase('/fr/travel/Maroc.html')">Suivre mes voyages</a></p>
 </div>
 <h2 id="passion" tabindex="-1"><a class="header-anchor" href="#passion" aria-hidden="true">#</a> Passion</h2>
 <h3 id="manger" tabindex="-1"><a class="header-anchor" href="#manger" aria-hidden="true">#</a> Manger...</h3>

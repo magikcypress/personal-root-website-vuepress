@@ -16,7 +16,7 @@ Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
 ### Compétences
 
-Retrouver sur ce bien joli donut, mes compétences professionnel et aussi personnel que j'applique au quotidien.
+Retrouver sur ce bien joli donut, mes compétences professionnelles et aussi personnelles que j'applique au quotidien.
 
 ```chart
 {
@@ -85,7 +85,7 @@ Retrouver sous ses lignes graphiques, la courbe d'évolution de mes compétences
 
 ## Voyages
 
-Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pendant que j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...
+Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pourtant j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...
 
 ::: tip  Lien interne
 <a :href="$withBase('/fr/travel/Maroc.html')">Suivre mes voyages</a>

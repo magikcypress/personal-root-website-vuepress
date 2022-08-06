@@ -1,6 +1,6 @@
 # README
 
-This repo is created by my test with Vuepress + IPFS
+My personal web site
 
 ## Installation
 
