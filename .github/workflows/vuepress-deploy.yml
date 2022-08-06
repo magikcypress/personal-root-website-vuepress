@@ -32,14 +32,15 @@ jobs:
     # run build script
     - name: Build VuePress site
       run: yarn docs:build
-      env:
-        ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        TARGET_REPO: magikcypress/personal-root-website-vuepress
-        TARGET_BRANCH: master      
-        FOLDER: docs/.vuepress/dist/
+
+    - name: Deploy VuePress site
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist/
 
     - name: ipfs-action
       uses: aquiladev/ipfs-action@v0.1.1
       id: upload
       with:
-        path: docs/.vuepress/dist/
+        path: ./docs/.vuepress/dist/
