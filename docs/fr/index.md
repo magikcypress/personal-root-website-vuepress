@@ -8,7 +8,7 @@ search: false
 
 <img :src="$withBase('/img/cat.jpg')" alt="Little cat">
 
-## Vie personnelle
+## Ma plus grande vie
 
 Je suis avant-vente, et je me suis spécialisé dans la donnée et l'analyse décisionnelle. <br/>
 Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.
