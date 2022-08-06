@@ -24,7 +24,13 @@ body {
 }
 
 .navbar .site-name {
-  font-size: 2.65em!important;
+  font-size: 2.65rem!important;
+}
+
+@media (max-width: 719px) {
+  .navbar .site-name {
+    font-size: 1.45rem!important;
+  }
 }
 
 .theme-default-content {
