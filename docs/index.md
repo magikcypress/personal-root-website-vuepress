@@ -15,6 +15,71 @@ On my first life, I was web developer. I ❤️ to write code.
 
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
 
+### Skills
+
+Find on this very pretty donut, my professional and personal skills that I apply every day.
+
+```chart
+{
+  "type": "doughnut",
+  "data": {
+    "datasets": [{
+      "data": [30, 20, 10],
+      "backgroundColor": [
+        "#d2d9e9",
+        "#a3cef1",
+        "#6096ba"
+      ]
+    }],
+    "labels": ["Listen", "Speak", "Love"]
+  }
+}
+```
+### Legacy
+
+Find under its graphic lines my legacy skills over the years. In red you can see predictions about the future.
+
+```chart
+{
+  "type": "line",
+  "data": {
+    "labels": ["2000", "2005", "2010", "2015", "2020", "2025", "2030", "2035", "2040"],
+    "datasets": [{
+      "label": "Legacy",
+      "data": [10, 20, 30, 40, 50, 60, 70, 89, 100],
+      "borderColor": "#d2d9e9",
+      "fill": {
+        "target": "origin",
+        "above": "#e4eaf4",
+        "below": "#6096ba"
+      },
+      "pointRadius": 5,
+      "backgroundColor": [
+        "#6096ba",
+        "#6096ba",
+        "#6096ba",
+        "#6096ba",
+        "#6096ba",
+        "#bc3908",
+        "#bc3908",
+        "#bc3908",
+        "#bc3908"
+      ]
+    }]
+  },
+  "options": {
+    "scales": {
+      "y": {
+        "ticks": {
+          "beginAtZero": true,
+          "callback": "function(value){ return ' ' + value + ' ki';  }"
+        }
+      }
+    }
+  }
+}
+```
+
 ::: tip External Link
 [You see my first professional life](http://vincent.legeard.info/cv)
 :::

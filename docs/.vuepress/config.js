@@ -1,5 +1,8 @@
 const { description } = require('../../package')
 const { defaultTheme } = require('@vuepress/theme-default')
+const { nprogressPlugin } = require('@vuepress/plugin-nprogress')
+const { chartPlugin } = require("vuepress-plugin-chart");
+
 
 module.exports = {
   /**
@@ -64,7 +67,7 @@ module.exports = {
     // default value is true. Set it to false to hide prev page links on all pages
     prevLinks: true,
     sidebar: true,
-/*    nav: [
+/*    navbar: [
       {
         text: 'Personal life',
         link: '/personal/',
@@ -81,8 +84,8 @@ module.exports = {
     sidebar: {
       '/travel/': [
         {
-          title: 'Travel',
-          collapsable: false,
+          text: 'Travel',
+          collapsible: false,
           children: [
             '',
             'Maroc',
@@ -105,5 +108,7 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     '@vuepress/vuepress-plugin-ipfs',
+    chartPlugin(),
+    nprogressPlugin(),
   ]
 }

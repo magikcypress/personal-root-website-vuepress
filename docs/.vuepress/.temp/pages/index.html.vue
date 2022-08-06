@@ -3,7 +3,61 @@
 <p>I'am presales, I'm specialist with data and business intelligent. <br/>
 On my first life, I was web developer. I ❤️ to write code.</p>
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
-<div class="custom-container tip"><p class="custom-container-title">External Link</p>
+<h3 id="skills" tabindex="-1"><a class="header-anchor" href="#skills" aria-hidden="true">#</a> Skills</h3>
+<p>Find on this very pretty donut, my professional and personal skills that I apply every day.</p>
+<Chart id="chart_382ee149" data-code="{
+  &quot;type&quot;: &quot;doughnut&quot;,
+  &quot;data&quot;: {
+    &quot;datasets&quot;: [{
+      &quot;data&quot;: [30, 20, 10],
+      &quot;backgroundColor&quot;: [
+        &quot;#d2d9e9&quot;,
+        &quot;#a3cef1&quot;,
+        &quot;#6096ba&quot;
+      ]
+    }],
+    &quot;labels&quot;: [&quot;Listen&quot;, &quot;Speak&quot;, &quot;Love&quot;]
+  }
+}"></Chart><h3 id="legacy" tabindex="-1"><a class="header-anchor" href="#legacy" aria-hidden="true">#</a> Legacy</h3>
+<p>Find under its graphic lines my legacy skills over the years. In red you can see predictions about the future.</p>
+<Chart id="chart_382ee165" data-code="{
+  &quot;type&quot;: &quot;line&quot;,
+  &quot;data&quot;: {
+    &quot;labels&quot;: [&quot;2000&quot;, &quot;2005&quot;, &quot;2010&quot;, &quot;2015&quot;, &quot;2020&quot;, &quot;2025&quot;, &quot;2030&quot;, &quot;2035&quot;, &quot;2040&quot;],
+    &quot;datasets&quot;: [{
+      &quot;label&quot;: &quot;Legacy&quot;,
+      &quot;data&quot;: [10, 20, 30, 40, 50, 60, 70, 89, 100],
+      &quot;borderColor&quot;: &quot;#d2d9e9&quot;,
+      &quot;fill&quot;: {
+        &quot;target&quot;: &quot;origin&quot;,
+        &quot;above&quot;: &quot;#e4eaf4&quot;,
+        &quot;below&quot;: &quot;#6096ba&quot;
+      },
+      &quot;pointRadius&quot;: 5,
+      &quot;backgroundColor&quot;: [
+        &quot;#6096ba&quot;,
+        &quot;#6096ba&quot;,
+        &quot;#6096ba&quot;,
+        &quot;#6096ba&quot;,
+        &quot;#6096ba&quot;,
+        &quot;#bc3908&quot;,
+        &quot;#bc3908&quot;,
+        &quot;#bc3908&quot;,
+        &quot;#bc3908&quot;
+      ]
+    }]
+  },
+  &quot;options&quot;: {
+    &quot;scales&quot;: {
+      &quot;y&quot;: {
+        &quot;ticks&quot;: {
+          &quot;beginAtZero&quot;: true,
+          &quot;callback&quot;: &quot;function(value){ return &#39; &#39; + value + &#39; ki&#39;;  }&quot;
+        }
+      }
+    }
+  }
+}"></Chart><div class="custom-container tip"><p class="custom-container-title">External Link</p>
 <p><a href="http://vincent.legeard.info/cv" target="_blank" rel="noopener noreferrer">You see my first professional life<ExternalLinkIcon/></a></p>
 </div>
 <h2 id="travel" tabindex="-1"><a class="header-anchor" href="#travel" aria-hidden="true">#</a> Travel</h2>

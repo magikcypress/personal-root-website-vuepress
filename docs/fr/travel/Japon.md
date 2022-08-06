@@ -1,5 +1,7 @@
 ---
 sidebar: false
+prev: ./Canada
+next: false
 ---
 
 # Japon

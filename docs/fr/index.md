@@ -14,6 +14,70 @@ Je suis avant-vente, je suis spécialiste des données et de l'intelligence comm
 Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.
 
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
+### Compétences
+
+Retrouver sur ce bien joli donut, mes compétences professionnel et aussi personnel que j'applique au quotidien.
+
+```chart
+{
+  "type": "doughnut",
+  "data": {
+    "datasets": [{
+      "data": [30, 20, 10],
+      "backgroundColor": [
+        "#d2d9e9",
+        "#a3cef1",
+        "#6096ba"
+      ]
+    }],
+    "labels": ["Ecoute", "Parler", "Amour"]
+  }
+}
+```
+### Héritage
+
+Retrouver sous ses lignes graphiques, la courbe d'évolution de mes compétences au fil des années. En rouge, vous pouvez voir les prédictions sur l'avenir.
+
+```chart
+{
+  "type": "line",
+  "data": {
+    "labels": ["2000", "2005", "2010", "2015", "2020", "2025", "2030", "2035", "2040"],
+    "datasets": [{
+      "label": "Héritage",
+      "data": [10, 20, 30, 40, 50, 60, 70, 89, 100],
+      "borderColor": "#d2d9e9",
+      "fill": {
+        "target": "origin",
+        "above": "#e4eaf4",
+        "below": "#6096ba"
+      },
+      "pointRadius": 5,
+      "backgroundColor": [
+        "#6096ba",
+        "#6096ba",
+        "#6096ba",
+        "#6096ba",
+        "#6096ba",
+        "#bc3908",
+        "#bc3908",
+        "#bc3908",
+        "#bc3908"
+      ]
+    }]
+  },
+  "options": {
+    "scales": {
+      "y": {
+        "ticks": {
+          "beginAtZero": true,
+          "callback": "function(value){ return ' ' + value + ' ki';  }"
+        }
+      }
+    }
+  }
+}
+```
 
 ::: tip Lien externe
 [Voir ma première vie professionnel](http://vincent.legeard.info/cv)

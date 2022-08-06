@@ -1,5 +1,7 @@
 ---
 sidebar: false
+prev: ./Maroc
+next: ./Bresil
 ---
 
 # Vietnam

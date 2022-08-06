@@ -1,5 +1,7 @@
 ---
 sidebar: false
+prev: ./Bresil
+next: ./Liban
 ---
 
 # Amérique du sud

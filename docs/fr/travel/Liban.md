@@ -1,5 +1,7 @@
 ---
 sidebar: false
+prev: ./AmeriqueduSud
+next: ./Canada
 ---
 
 # Liban

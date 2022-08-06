@@ -3,7 +3,61 @@
 <p>Je suis avant-vente, je suis spécialiste des données et de l'intelligence commerciale. <br/>
 Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.</p>
 <!--a :href="$withBase('/personal/')">Follow my life</a-->
-<div class="custom-container tip"><p class="custom-container-title">Lien externe</p>
+<h3 id="competences" tabindex="-1"><a class="header-anchor" href="#competences" aria-hidden="true">#</a> Compétences</h3>
+<p>Retrouver sur ce bien joli donut, mes compétences professionnel et aussi personnel que j'applique au quotidien.</p>
+<Chart id="chart_382ee149" data-code="{
+  &quot;type&quot;: &quot;doughnut&quot;,
+  &quot;data&quot;: {
+    &quot;datasets&quot;: [{
+      &quot;data&quot;: [30, 20, 10],
+      &quot;backgroundColor&quot;: [
+        &quot;#d2d9e9&quot;,
+        &quot;#a3cef1&quot;,
+        &quot;#6096ba&quot;
+      ]
+    }],
+    &quot;labels&quot;: [&quot;Ecoute&quot;, &quot;Parler&quot;, &quot;Amour&quot;]
+  }
+}"></Chart><h3 id="heritage" tabindex="-1"><a class="header-anchor" href="#heritage" aria-hidden="true">#</a> Héritage</h3>
+<p>Retrouver sous ses lignes graphiques, la courbe d'évolution de mes compétences au fil des années. En rouge, vous pouvez voir les prédictions sur l'avenir.</p>
+<Chart id="chart_382ee165" data-code="{
+  &quot;type&quot;: &quot;line&quot;,
+  &quot;data&quot;: {
+    &quot;labels&quot;: [&quot;2000&quot;, &quot;2005&quot;, &quot;2010&quot;, &quot;2015&quot;, &quot;2020&quot;, &quot;2025&quot;, &quot;2030&quot;, &quot;2035&quot;, &quot;2040&quot;],
+    &quot;datasets&quot;: [{
+      &quot;label&quot;: &quot;Héritage&quot;,
+      &quot;data&quot;: [10, 20, 30, 40, 50, 60, 70, 89, 100],
+      &quot;borderColor&quot;: &quot;#d2d9e9&quot;,
+      &quot;fill&quot;: {
+        &quot;target&quot;: &quot;origin&quot;,
+        &quot;above&quot;: &quot;#e4eaf4&quot;,
+        &quot;below&quot;: &quot;#6096ba&quot;
+      },
+      &quot;pointRadius&quot;: 5,
+      &quot;backgroundColor&quot;: [
+        &quot;#6096ba&quot;,
+        &quot;#6096ba&quot;,
+        &quot;#6096ba&quot;,
+        &quot;#6096ba&quot;,
+        &quot;#6096ba&quot;,
+        &quot;#bc3908&quot;,
+        &quot;#bc3908&quot;,
+        &quot;#bc3908&quot;,
+        &quot;#bc3908&quot;
+      ]
+    }]
+  },
+  &quot;options&quot;: {
+    &quot;scales&quot;: {
+      &quot;y&quot;: {
+        &quot;ticks&quot;: {
+          &quot;beginAtZero&quot;: true,
+          &quot;callback&quot;: &quot;function(value){ return &#39; &#39; + value + &#39; ki&#39;;  }&quot;
+        }
+      }
+    }
+  }
+}"></Chart><div class="custom-container tip"><p class="custom-container-title">Lien externe</p>
 <p><a href="http://vincent.legeard.info/cv" target="_blank" rel="noopener noreferrer">Voir ma première vie professionnel<ExternalLinkIcon/></a></p>
 </div>
 <h2 id="voyages" tabindex="-1"><a class="header-anchor" href="#voyages" aria-hidden="true">#</a> Voyages</h2>
