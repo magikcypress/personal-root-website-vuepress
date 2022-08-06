@@ -15,7 +15,6 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "@nebula.js/stardust": "^3.0.0-alpha11",
     "vuepress-plugin-chart": "^2.0.0-alpha.25"
   }
 }
