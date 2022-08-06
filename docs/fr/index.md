@@ -88,7 +88,7 @@ Retrouver sous ses lignes graphiques, la courbe d'évolution de mes compétences
 Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pendant que j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...
 
 ::: tip  Lien interne
-<a :href="$withBase('/travel/Maroc.html')">Suivre mes voyages</a>
+<a :href="$withBase('/fr/travel/Maroc.html')">Suivre mes voyages</a>
 :::
 
 ## Passion
