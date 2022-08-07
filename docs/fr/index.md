@@ -103,6 +103,8 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 
 ### Lecture...
 
+>  Maboule Kitchen de Nadine Monfils (ISBN-10 2266263706)
+
 >  Une rose seule de Muriel Barbery (ISBN-10 2330165366)
 
 >  Ceux qui partent de Jeanne Benameur (ISBN-10 2330153058)
