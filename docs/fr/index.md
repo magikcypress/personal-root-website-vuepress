@@ -95,7 +95,7 @@ Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connai
 
 ### Manger...
 
-Retrouver une sélection de restaurants Parisiens que je mets régulièrement à jour.
+Retrouver une sélection de restaurant Parisien que je mets régulièrement à jour.
 
 ::: tip  Lien externe
 [Liste des restos Parisiens](https://resto.rouquin.me/)
