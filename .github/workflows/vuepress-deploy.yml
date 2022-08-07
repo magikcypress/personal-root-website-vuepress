@@ -32,12 +32,19 @@ jobs:
     # run build script
     - name: Build VuePress site
       run: yarn docs:build
+      working-directory: ./docs/.vuepress/dist/
 
-    - name: Deploy VuePress site
-      uses: peaceiris/actions-gh-pages@v3
+    - name: Install SSH Key
+      uses: shimataro/ssh-key-action@v2
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./dist/
+        key: ${{ secrets.MY_PRIVATE_KEY_DEPLOY }}
+        known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
+
+    - name: Adding Known Hosts
+      run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+
+    - name: Deploy with rsync
+      run: rsync -avz ./docs/.vuepress/dist/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/personal/
 
     - name: ipfs-action
       uses: aquiladev/ipfs-action@v0.1.1
