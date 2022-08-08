@@ -34,12 +34,6 @@ jobs:
       run: yarn docs:build
       working-directory: ./docs/.vuepress/dist/
 
-    - name: markdownlint-cli
-      uses: nosborn/github-action-markdown-cli@v3.0.1
-      with:
-        files: ./docs/
-        config_file: .markdownlint.yaml
-
     - name: Install SSH Key
       uses: shimataro/ssh-key-action@v2
       with:
