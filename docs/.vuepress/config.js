@@ -3,7 +3,6 @@ const { defaultTheme } = require('@vuepress/theme-default')
 const { nprogressPlugin } = require('@vuepress/plugin-nprogress')
 const { chartPlugin } = require("vuepress-plugin-chart");
 
-
 module.exports = {
   /**
    * Ref：https://v2.vuepress.vuejs.org/guide/configuration.html
