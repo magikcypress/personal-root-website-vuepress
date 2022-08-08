@@ -56,9 +56,9 @@ module.exports = {
    * ref：https://v2.vuepress.vuejs.org/guide/theme.html
    */
   theme: defaultTheme({
-    repo: 'https://github.com/magikcypress/personal-root-website-vuepress.git',
+    repo: 'https://github.com/magikcypress/personal-root-website-vuepress/',
     editLinks: false,
-    docsDir: '',
+    docsDir: 'docs/',
     editLinkText: 'Edit on Github',
     lastUpdated: true,
     search: false,
