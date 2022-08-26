@@ -104,9 +104,11 @@ Find a selection of Parisian restaurants that I update frequently.
 
 ### Reading...
 
->  Maboule Kitchen de Nadine Monfils (ISBN-10 2266263706)
+>  L'anomalie de Hervé Le Tellier (ISBN-13 [9782072965821](https://www.isbnsearcher.com/books/9782072965821))
 
->  Une rose seule de Muriel Barbery (ISBN-10 2330165366)
+>  Maboule Kitchen de Nadine Monfils (ISBN-13 [9782266263702](https://www.isbnsearcher.com/books/9782266263702))
+
+>  Une rose seule de Muriel Barbery (ISBN-13 [9782330165369](https://www.isbnsearcher.com/books/9782330165369))
 
 >  Ceux qui partent de Jeanne Benameur (ISBN-10 2330153058)
 
