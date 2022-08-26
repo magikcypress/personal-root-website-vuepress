@@ -45,9 +45,3 @@ jobs:
 
     - name: Deploy with rsync
       run: rsync -avz ./docs/.vuepress/dist/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/personal/
-
-    - name: ipfs-action
-      uses: aquiladev/ipfs-action@v0.1.1
-      id: upload
-      with:
-        path: ./docs/.vuepress/dist/
