@@ -103,45 +103,57 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 
 ### Lecture...
 
->  Maboule Kitchen de Nadine Monfils (ISBN-10 2266263706)
+>  Le vieux qui ne voulait pas fêter son anniversaire de Jonas Jonasson (ISBN-13 [9782266218528](https://www.isbnsearcher.com/books/9782266218528))
 
->  Une rose seule de Muriel Barbery (ISBN-10 2330165366)
+>  Le cercle littéraire des amateurs d'épluchiures de patates de Mary Ann Shaffer & Annie Barrows (ISBN-13 [9782264053510](https://www.isbnsearcher.com/books/9782264053510))
 
->  Ceux qui partent de Jeanne Benameur (ISBN-10 2330153058)
+>  Histoire du fils de Marie-Hélène Lafon (ISBN-13 [9782072935695](https://www.isbnsearcher.com/books/9782072935695))
 
->  Tout le bleu du ciel de Mélissa Da Costa (ISBN-10 2253934100)
+>  L'anomalie de Hervé Le Tellier (ISBN-13 [9782072965821](https://www.isbnsearcher.com/books/9782072965821))
 
->  Les Déracinés de Catherine Bardon (ISBN-10 2266300458)
+>  Maboule Kitchen de Nadine Monfils (ISBN-13 [9782266263702](https://www.isbnsearcher.com/books/9782266263702))
 
->  L'Américaine de Catherine Bardon (ISBN-10 2266287303)
+>  Une rose seule de Muriel Barbery (ISBN-13 [9782330165369](https://www.isbnsearcher.com/books/9782330165369))
 
->  Et la vie reprit son cours de Catherine Bardon (ISBN-10 2266315412)
+>  Ceux qui partent de Jeanne Benameur (ISBN-13 [9782330153052](https://www.isbnsearcher.com/books/9782330153052))
 
->  Un invincible été de Catherine Bardon (ISBN-10 2266315412)
+>  Tout le bleu du ciel de Mélissa Da Costa (ISBN-13 [9782253934103](https://www.isbnsearcher.com/books/9782253934103))
 
->  En attendant Bojangles de Olivier Bourdeaut (ISBN-10 2072844819)
+>  Les Déracinés de Catherine Bardon (ISBN-13 [9782266287302](https://www.isbnsearcher.com/books/9782266287302))
 
->  La tresse de Laetitia Colombani (ISBN-10 2253906565)
+>  L'Américaine de Catherine Bardon (ISBN-13 [9782266300452](https://www.isbnsearcher.com/books/9782266300452))
 
->  L'infortunée de Wesley Stace (ISBN-10 2744192570)
+>  Et la vie reprit son cours de Catherine Bardon (ISBN-13 [9782266315418](https://www.isbnsearcher.com/books/9782266315418))
 
->  Queen de Alex Haley et David Stevens (ISBN-10 2266064444)
+>  Un invincible été de Catherine Bardon (ISBN-13 [9782266322997](https://www.isbnsearcher.com/books/9782266322997))
 
->  Regardez-nous danser de Leïla Slimani (ISBN-10 2072972558)
+>  En attendant Bojangles de Olivier Bourdeaut (ISBN-13 [9782072844812](https://www.isbnsearcher.com/books/9782072844812))
 
->  Le pays des autres de Leïla Slimani (ISBN-10 2072923476)
+>  Les victorieuses de Laetitia Colombani (ISBN-13 [9782253934639](https://www.isbnsearcher.com/books/9782253934639))
 
->  Soleil amer de Lilia Hassaine (ISBN-10 2072952174)
+>  Le cerf-Volant de Laetitia Colombani (ISBN-13 [9782253262848](https://www.isbnsearcher.com/books/9782253262848))
 
->  L'oeil du paon de Lilia Hassaine (ISBN-10 2072921562)
+>  La tresse de Laetitia Colombani (ISBN-13 [9782253906568](https://www.isbnsearcher.com/books/9782253906568))
 
->  les impatientes de djaïli amadou amal (ISBN-10 2290252948)
+>  L'infortunée de Wesley Stace (ISBN-13 [9782744192579](https://www.isbnsearcher.com/books/9782744192579))
 
->  Ibrahim de Frederic Benque (ISBN-10 2848600357)
+>  Queen de Alex Haley et David Stevens (ISBN-13 [9782266064446](https://www.isbnsearcher.com/books/9782266064446))
 
->  New York sans New York de Philippe Delerm (ISBN-10 2021342905)
+>  Regardez-nous danser de Leïla Slimani (ISBN-13 [9782072972553](https://www.isbnsearcher.com/books/9782072972553))
 
->  L'enfant qui regarde de Dany Laferrière (ISBN-10 2246829054)
+>  Le pays des autres de Leïla Slimani (ISBN-13 [9791026905974](https://www.isbnsearcher.com/books/9791026905974))
+
+>  Soleil amer de Lilia Hassaine (ISBN-13 [9782072952173](https://www.isbnsearcher.com/books/9782072952173))
+
+>  L'oeil du paon de Lilia Hassaine (ISBN-13 [9782072921568](https://www.isbnsearcher.com/books/9782072921568))
+
+>  les impatientes de djaïli amadou amal (ISBN-13 [9782290252949](https://www.isbnsearcher.com/books/9782290252949))
+
+>  Ibrahim de Frederic Benque (ISBN-13 [9782848600352](https://www.isbnsearcher.com/books/9782848600352))
+
+>  New York sans New York de Philippe Delerm (ISBN-13 [9782021342901](https://www.isbnsearcher.com/books/9782021342901))
+
+>  L'enfant qui regarde de Dany Laferrière (ISBN-13 [9782246829058](https://www.isbnsearcher.com/books/9782246829058))
 
 ::: warning Offre moi un bien beau livre ❤️
 [Liste des envies sur la FNAC](https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08)
