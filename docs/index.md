@@ -104,6 +104,10 @@ Find a selection of Parisian restaurants that I update frequently.
 
 ### Reading...
 
+> Betty de Tiffany Mc Daniel (ISBN-13 [9782351788387](https://www.isbnsearcher.com/books/9782351788387))
+
+>  Les envolés de Etienne Kern (ISBN-13 [9782266218528](https://www.isbnsearcher.com/books/9782072920820))
+
 >  Le vieux qui ne voulait pas fêter son anniversaire de Jonas Jonasson (ISBN-13 [9782266218528](https://www.isbnsearcher.com/books/9782266218528))
 
 >  Le cercle littéraire des amateurs d'épluchiures de patates de Mary Ann Shaffer & Annie Barrows (ISBN-13 [9782264053510](https://www.isbnsearcher.com/books/9782264053510))
