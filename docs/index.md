@@ -80,7 +80,7 @@ Find under its graphic lines my legacy skills over the years. In red you can see
 }
 ```
 
-::: tip External Link
+::: tip Past life
 [You see my first professional life](http://vincent.legeard.info/cv)
 :::
 
@@ -88,7 +88,7 @@ Find under its graphic lines my legacy skills over the years. In red you can see
 
 I've been to a few countries, many outside of Europe. I know very little about the European continent while I live there. The projects will be done over time and I should be able to find the time to travel to Italy, Norway, Scotland or Greece...
 
-::: tip Internal Link
+::: tip Past dream for me
 <a :href="$withBase('/travel/Maroc.html')">Follow my travel</a>
 :::
 
@@ -98,7 +98,7 @@ I've been to a few countries, many outside of Europe. I know very little about t
 
 Find a selection of Parisian restaurants that I update frequently.
 
-::: tip External Link
+::: tip Find a restaurant
 [List of Parisian restaurants](https://resto.rouquin.me/)
 :::
 
@@ -270,7 +270,7 @@ Find a selection of Parisian restaurants that I update frequently.
 > Portishead - Dummy
 (Go! Beat)
 
-::: details See my collection on Discogs
+::: tips See my collection on Discogs
 [Collection on Discogs](https://www.discogs.com/fr/user/magikcypress/collection)
 :::
 
