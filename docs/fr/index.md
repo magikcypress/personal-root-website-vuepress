@@ -79,7 +79,7 @@ Retrouver sous ses lignes graphiques, la courbe d'évolution de mes compétences
 }
 ```
 
-::: tip Lien externe
+::: tip Vie passée
 [Voir ma première vie professionnel](http://vincent.legeard.info/cv)
 :::
 
@@ -87,7 +87,7 @@ Retrouver sous ses lignes graphiques, la courbe d'évolution de mes compétences
 
 Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pourtant j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...
 
-::: tip  Lien interne
+::: tip  Réves passés
 <a :href="$withBase('/fr/travel/Maroc.html')">Suivre mes voyages</a>
 :::
 
@@ -97,7 +97,7 @@ Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connai
 
 Retrouver une sélection de restaurant Parisien que je mets régulièrement à jour.
 
-::: tip  Lien externe
+::: tip  Trouver un restaurant
 [Liste des restos Parisiens](https://resto.rouquin.me/)
 :::
 
@@ -268,6 +268,10 @@ Retrouver une sélection de restaurant Parisien que je mets régulièrement à j
 
 > Portishead - Dummy
 (Go! Beat)
+
+::: tip Voir ma collection
+[Collection sur Discogs](https://www.discogs.com/fr/user/magikcypress/collection)
+:::
 
 ::: warning Offre moi un bien beau Vinyl ❤️
 [Liste des envies sur Discogs](https://www.discogs.com/fr/wantlist?user=magikcypress)
