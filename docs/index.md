@@ -270,6 +270,10 @@ Find a selection of Parisian restaurants that I update frequently.
 > Portishead - Dummy
 (Go! Beat)
 
+::: details See my collection on Discogs
+[Collection on Discogs](https://www.discogs.com/fr/user/magikcypress/collection)
+:::
+
 ::: warning Give me a beautiful vinyl ❤️
 [Wantlist on Discogs](https://www.discogs.com/fr/wantlist?user=magikcypress)
 :::
