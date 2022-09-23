@@ -104,6 +104,8 @@ Find a selection of Parisian restaurants that I update frequently.
 
 ### Reading...
 
+>  Un soupçon de liberté de Margaret Wilkerson Sexton (ISBN-13 [9782330136772](https://www.isbnsearcher.com/books/9782330136772))
+
 >  La ferme africaine de Karen Blixen (ISBN-13 [9782070370375](https://www.isbnsearcher.com/books/9782070370375))
 
 >  Betty de Tiffany Mc Daniel (ISBN-13 [9782351788387](https://www.isbnsearcher.com/books/9782351788387))
