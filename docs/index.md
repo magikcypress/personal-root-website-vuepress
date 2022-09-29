@@ -104,6 +104,10 @@ Find a selection of Parisian restaurants that I update frequently.
 
 ### Reading...
 
+>  Morphine de Mikhaïl Boulgakov (ISBN-13 [9782070445240](https://www.isbnsearcher.com/books/9782070445240))
+
+>  Voyage d'une Parisienne à Lhassa de Alexandra David-Néel (ISBN-13 [9782266182768](https://www.isbnsearcher.com/books/9782266182768))
+
 >  Un soupçon de liberté de Margaret Wilkerson Sexton (ISBN-13 [9782330136772](https://www.isbnsearcher.com/books/9782330136772))
 
 >  La ferme africaine de Karen Blixen (ISBN-13 [9782070370375](https://www.isbnsearcher.com/books/9782070370375))
