@@ -104,6 +104,10 @@ Find a selection of Parisian restaurants that I update frequently.
 
 ### Reading...
 
+>  En partant, le bonheur m'a dit ... de Sophia Peignot (ISBN-13 [9782322237975](https://www.isbnsearcher.com/books/9782322237975))
+
+>  L'Enigme Du Retour de Dany Laferriere (ISBN-13 [9782253156604](https://www.isbnsearcher.com/books/9782253156604))
+
 >  Morphine de Mikhaïl Boulgakov (ISBN-13 [9782070445240](https://www.isbnsearcher.com/books/9782070445240))
 
 >  Voyage d'une Parisienne à Lhassa de Alexandra David-Néel (ISBN-13 [9782266182768](https://www.isbnsearcher.com/books/9782266182768))
