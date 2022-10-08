@@ -52,83 +52,59 @@ Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.</p>
       &quot;y&quot;: {
         &quot;ticks&quot;: {
           &quot;beginAtZero&quot;: true,
-          &quot;callback&quot;: &quot;function(value){ return &#39; &#39; + value + &#39; ki&#39;;  }&quot;
+          &quot;callback&quot;: &quot;function(value){ return &#039; &#039; + value + &#039; ki&#039;;  }&quot;
         }
       }
     }
   }
-}"></Chart><div class="custom-container tip"><p class="custom-container-title">Lien externe</p>
+}"></Chart><div class="custom-container tip"><p class="custom-container-title">Vie passée</p>
 <p><a href="http://vincent.legeard.info/cv" target="_blank" rel="noopener noreferrer">Voir ma première vie professionnel<ExternalLinkIcon/></a></p>
 </div>
 <h2 id="voyages" tabindex="-1"><a class="header-anchor" href="#voyages" aria-hidden="true">#</a> Voyages</h2>
 <p>Je suis allé dans quelques pays, dont beaucoup en dehors de l'Europe. Je connais très peu le continent européen pourtant j'y vis. Les projets se feront dans la durée et je devrais pouvoir trouver le temps de voyager en Italie, en Norvège, en Ecosse ou en Grèce...</p>
-<div class="custom-container tip"><p class="custom-container-title">Lien interne</p>
+<div class="custom-container tip"><p class="custom-container-title">Réves passés</p>
 <p><a :href="$withBase('/fr/travel/Maroc.html')">Suivre mes voyages</a></p>
 </div>
 <h2 id="passion" tabindex="-1"><a class="header-anchor" href="#passion" aria-hidden="true">#</a> Passion</h2>
 <h3 id="manger" tabindex="-1"><a class="header-anchor" href="#manger" aria-hidden="true">#</a> Manger...</h3>
-<p>Retrouver une sélection de restaurants Parisiens que je mets régulièrement à jour.</p>
-<div class="custom-container tip"><p class="custom-container-title">Lien externe</p>
+<p>Retrouver une sélection de restaurant Parisien que je mets régulièrement à jour.</p>
+<div class="custom-container tip"><p class="custom-container-title">Trouver un restaurant</p>
 <p><a href="https://resto.rouquin.me/" target="_blank" rel="noopener noreferrer">Liste des restos Parisiens<ExternalLinkIcon/></a></p>
 </div>
 <h3 id="lecture" tabindex="-1"><a class="header-anchor" href="#lecture" aria-hidden="true">#</a> Lecture...</h3>
 <blockquote>
-<p>Une rose seule de Muriel Barbery (ISBN-10 2330165366)</p>
+<p>Comment font les gens ? Olivia de Lamberterie (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782234088351" target="_blank" rel="noopener noreferrer">9782234088351<ExternalLinkIcon/></a>)</p>
+</blockquote>
+<div class="custom-container danger"><p class="custom-container-title">(Citation) Comment font les gens ? Olivia de Lamberterie</p>
+<p>Kindle a remplacé les œufs Kinder, un truc gras avec une merde cachée dedans.</p>
+</div>
+<blockquote>
+<p>En partant, le bonheur m'a dit ... de Sophia Peignot (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782322237975" target="_blank" rel="noopener noreferrer">9782322237975<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <blockquote>
-<p>Ceux qui partent de Jeanne Benameur (ISBN-10 2330153058)</p>
+<p>L'Enigme Du Retour de Dany Laferriere (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782253156604" target="_blank" rel="noopener noreferrer">9782253156604<ExternalLinkIcon/></a>)</p>
+</blockquote>
+<div class="custom-container danger"><p class="custom-container-title">(Citation) L'énigme du retour (French Edition) de Dany Laferriere</p>
+<p>J’avoue que c’est plus facile d’apprendre que de réapprendre. Mais le plus dur c’est encore de désapprendre.</p>
+</div>
+<blockquote>
+<p>Morphine de Mikhaïl Boulgakov (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782070445240" target="_blank" rel="noopener noreferrer">9782070445240<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <blockquote>
-<p>Tout le bleu du ciel de Mélissa Da Costa (ISBN-10 2253934100)</p>
+<p>Voyage d'une Parisienne à Lhassa de Alexandra David-Néel (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782266182768" target="_blank" rel="noopener noreferrer">9782266182768<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <blockquote>
-<p>Les Déracinés de Catherine Bardon (ISBN-10 2266300458)</p>
+<p>Un soupçon de liberté de Margaret Wilkerson Sexton (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782330136772" target="_blank" rel="noopener noreferrer">9782330136772<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <blockquote>
-<p>L'Américaine de Catherine Bardon (ISBN-10 2266287303)</p>
+<p>La ferme africaine de Karen Blixen (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782070370375" target="_blank" rel="noopener noreferrer">9782070370375<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <blockquote>
-<p>Et la vie reprit son cours de Catherine Bardon (ISBN-10 2266315412)</p>
+<p>Betty de Tiffany Mc Daniel (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782351788387" target="_blank" rel="noopener noreferrer">9782351788387<ExternalLinkIcon/></a>)</p>
 </blockquote>
-<blockquote>
-<p>Un invincible été de Catherine Bardon (ISBN-10 2266315412)</p>
-</blockquote>
-<blockquote>
-<p>En attendant Bojangles de Olivier Bourdeaut (ISBN-10 2072844819)</p>
-</blockquote>
-<blockquote>
-<p>La tresse de Laetitia Colombani (ISBN-10 2253906565)</p>
-</blockquote>
-<blockquote>
-<p>L'infortunée de Wesley Stace (ISBN-10 2744192570)</p>
-</blockquote>
-<blockquote>
-<p>Queen de Alex Haley et David Stevens (ISBN-10 2266064444)</p>
-</blockquote>
-<blockquote>
-<p>Regardez-nous danser de Leïla Slimani (ISBN-10 2072972558)</p>
-</blockquote>
-<blockquote>
-<p>Le pays des autres de Leïla Slimani (ISBN-10 2072923476)</p>
-</blockquote>
-<blockquote>
-<p>Soleil amer de Lilia Hassaine (ISBN-10 2072952174)</p>
-</blockquote>
-<blockquote>
-<p>L'oeil du paon de Lilia Hassaine (ISBN-10 2072921562)</p>
-</blockquote>
-<blockquote>
-<p>les impatientes de djaïli amadou amal (ISBN-10 2290252948)</p>
-</blockquote>
-<blockquote>
-<p>Ibrahim de Frederic Benque (ISBN-10 2848600357)</p>
-</blockquote>
-<blockquote>
-<p>New York sans New York de Philippe Delerm (ISBN-10 2021342905)</p>
-</blockquote>
-<blockquote>
-<p>L'enfant qui regarde de Dany Laferrière (ISBN-10 2246829054)</p>
-</blockquote>
+<div class="custom-container tip"><p class="custom-container-title">Idées de livre</p>
+<p><RouterLink to="/passion/">Ce que j'ai déjà lu ...</RouterLink></p>
+</div>
 <div class="custom-container warning"><p class="custom-container-title">Offre moi un bien beau livre ❤️</p>
 <p><a href="https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08" target="_blank" rel="noopener noreferrer">Liste des envies sur la FNAC<ExternalLinkIcon/></a></p>
 </div>
@@ -269,6 +245,9 @@ Dans ma première vie, j'étais développeur web. J'❤️ écrire du code.</p>
 <p>Portishead - Dummy
 (Go! Beat)</p>
 </blockquote>
+<div class="custom-container tip"><p class="custom-container-title">Voir ma collection</p>
+<p><a href="https://www.discogs.com/fr/user/magikcypress/collection" target="_blank" rel="noopener noreferrer">Collection sur Discogs<ExternalLinkIcon/></a></p>
+</div>
 <div class="custom-container warning"><p class="custom-container-title">Offre moi un bien beau Vinyl ❤️</p>
 <p><a href="https://www.discogs.com/fr/wantlist?user=magikcypress" target="_blank" rel="noopener noreferrer">Liste des envies sur Discogs<ExternalLinkIcon/></a></p>
 </div>

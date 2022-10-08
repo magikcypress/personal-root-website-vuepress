@@ -52,83 +52,59 @@ On my first life, I was web developer. I ❤️ to write code.</p>
       &quot;y&quot;: {
         &quot;ticks&quot;: {
           &quot;beginAtZero&quot;: true,
-          &quot;callback&quot;: &quot;function(value){ return &#39; &#39; + value + &#39; ki&#39;;  }&quot;
+          &quot;callback&quot;: &quot;function(value){ return &#039; &#039; + value + &#039; ki&#039;;  }&quot;
         }
       }
     }
   }
-}"></Chart><div class="custom-container tip"><p class="custom-container-title">External Link</p>
+}"></Chart><div class="custom-container tip"><p class="custom-container-title">Past life</p>
 <p><a href="http://vincent.legeard.info/cv" target="_blank" rel="noopener noreferrer">You see my first professional life<ExternalLinkIcon/></a></p>
 </div>
 <h2 id="travel" tabindex="-1"><a class="header-anchor" href="#travel" aria-hidden="true">#</a> Travel</h2>
 <p>I've been to a few countries, many outside of Europe. I know very little about the European continent while I live there. The projects will be done over time and I should be able to find the time to travel to Italy, Norway, Scotland or Greece...</p>
-<div class="custom-container tip"><p class="custom-container-title">Internal Link</p>
+<div class="custom-container tip"><p class="custom-container-title">Past dream for me</p>
 <p><a :href="$withBase('/travel/Maroc.html')">Follow my travel</a></p>
 </div>
 <h2 id="passion" tabindex="-1"><a class="header-anchor" href="#passion" aria-hidden="true">#</a> Passion</h2>
 <h3 id="eating" tabindex="-1"><a class="header-anchor" href="#eating" aria-hidden="true">#</a> Eating...</h3>
 <p>Find a selection of Parisian restaurants that I update frequently.</p>
-<div class="custom-container tip"><p class="custom-container-title">External Link</p>
+<div class="custom-container tip"><p class="custom-container-title">Find a restaurant</p>
 <p><a href="https://resto.rouquin.me/" target="_blank" rel="noopener noreferrer">List of Parisian restaurants<ExternalLinkIcon/></a></p>
 </div>
 <h3 id="reading" tabindex="-1"><a class="header-anchor" href="#reading" aria-hidden="true">#</a> Reading...</h3>
 <blockquote>
-<p>Une rose seule de Muriel Barbery (ISBN-10 2330165366)</p>
+<p>Comment font les gens ? Olivia de Lamberterie (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782234088351" target="_blank" rel="noopener noreferrer">9782234088351<ExternalLinkIcon/></a>)</p>
+</blockquote>
+<div class="custom-container danger"><p class="custom-container-title">(Citation) Comment font les gens ? Olivia de Lamberterie</p>
+<p>Kindle a remplacé les œufs Kinder, un truc gras avec une merde cachée dedans.</p>
+</div>
+<blockquote>
+<p>En partant, le bonheur m'a dit ... de Sophia Peignot (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782322237975" target="_blank" rel="noopener noreferrer">9782322237975<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <blockquote>
-<p>Ceux qui partent de Jeanne Benameur (ISBN-10 2330153058)</p>
+<p>L'Enigme Du Retour de Dany Laferriere (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782253156604" target="_blank" rel="noopener noreferrer">9782253156604<ExternalLinkIcon/></a>)</p>
+</blockquote>
+<div class="custom-container danger"><p class="custom-container-title">(Citation) L'énigme du retour (French Edition) de Dany Laferriere</p>
+<p>J’avoue que c’est plus facile d’apprendre que de réapprendre. Mais le plus dur c’est encore de désapprendre.</p>
+</div>
+<blockquote>
+<p>Morphine de Mikhaïl Boulgakov (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782070445240" target="_blank" rel="noopener noreferrer">9782070445240<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <blockquote>
-<p>Tout le bleu du ciel de Mélissa Da Costa (ISBN-10 2253934100)</p>
+<p>Voyage d'une Parisienne à Lhassa de Alexandra David-Néel (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782266182768" target="_blank" rel="noopener noreferrer">9782266182768<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <blockquote>
-<p>Les Déracinés de Catherine Bardon (ISBN-10 2266300458)</p>
+<p>Un soupçon de liberté de Margaret Wilkerson Sexton (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782330136772" target="_blank" rel="noopener noreferrer">9782330136772<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <blockquote>
-<p>L'Américaine de Catherine Bardon (ISBN-10 2266287303)</p>
+<p>La ferme africaine de Karen Blixen (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782070370375" target="_blank" rel="noopener noreferrer">9782070370375<ExternalLinkIcon/></a>)</p>
 </blockquote>
 <blockquote>
-<p>Et la vie reprit son cours de Catherine Bardon (ISBN-10 2266315412)</p>
+<p>Betty de Tiffany Mc Daniel (ISBN-13 <a href="https://www.isbnsearcher.com/books/9782351788387" target="_blank" rel="noopener noreferrer">9782351788387<ExternalLinkIcon/></a>)</p>
 </blockquote>
-<blockquote>
-<p>Un invincible été de Catherine Bardon (ISBN-10 2266315412)</p>
-</blockquote>
-<blockquote>
-<p>En attendant Bojangles de Olivier Bourdeaut (ISBN-10 2072844819)</p>
-</blockquote>
-<blockquote>
-<p>La tresse de Laetitia Colombani (ISBN-10 2253906565)</p>
-</blockquote>
-<blockquote>
-<p>L'infortunée de Wesley Stace (ISBN-10 2744192570)</p>
-</blockquote>
-<blockquote>
-<p>Queen de Alex Haley et David Stevens (ISBN-10 2266064444)</p>
-</blockquote>
-<blockquote>
-<p>Regardez-nous danser de Leïla Slimani (ISBN-10 2072972558)</p>
-</blockquote>
-<blockquote>
-<p>Le pays des autres de Leïla Slimani (ISBN-10 2072923476)</p>
-</blockquote>
-<blockquote>
-<p>Soleil amer de Lilia Hassaine (ISBN-10 2072952174)</p>
-</blockquote>
-<blockquote>
-<p>L'oeil du paon de Lilia Hassaine (ISBN-10 2072921562)</p>
-</blockquote>
-<blockquote>
-<p>les impatientes de djaïli amadou amal (ISBN-10 2290252948)</p>
-</blockquote>
-<blockquote>
-<p>Ibrahim de Frederic Benque (ISBN-10 2848600357)</p>
-</blockquote>
-<blockquote>
-<p>New York sans New York de Philippe Delerm (ISBN-10 2021342905)</p>
-</blockquote>
-<blockquote>
-<p>L'enfant qui regarde de Dany Laferrière (ISBN-10 2246829054)</p>
-</blockquote>
+<div class="custom-container tip"><p class="custom-container-title">Reading idea</p>
+<p><RouterLink to="/passion/">What I have already read ...</RouterLink></p>
+</div>
 <div class="custom-container warning"><p class="custom-container-title">Give me a beautiful book ❤️</p>
 <p><a href="https://secure.fnac.com/wishlist/4ee4a918-3047-461c-85f9-9a6233d4fc08" target="_blank" rel="noopener noreferrer">Wantlist on FNAC<ExternalLinkIcon/></a></p>
 </div>
@@ -269,6 +245,9 @@ On my first life, I was web developer. I ❤️ to write code.</p>
 <p>Portishead - Dummy
 (Go! Beat)</p>
 </blockquote>
+<div class="custom-container tip"><p class="custom-container-title">See my collection on Discogs</p>
+<p><a href="https://www.discogs.com/fr/user/magikcypress/collection" target="_blank" rel="noopener noreferrer">Collection on Discogs<ExternalLinkIcon/></a></p>
+</div>
 <div class="custom-container warning"><p class="custom-container-title">Give me a beautiful vinyl ❤️</p>
 <p><a href="https://www.discogs.com/fr/wantlist?user=magikcypress" target="_blank" rel="noopener noreferrer">Wantlist on Discogs<ExternalLinkIcon/></a></p>
 </div>

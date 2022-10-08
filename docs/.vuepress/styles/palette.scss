@@ -17,7 +17,17 @@
     --c-tip-bg: #e4eaf4;
     --c-tip-text: var(--c-brand);
     --c-tip-text-accent: var(--c-text-accent);
+    --c-danger: #ffffff;
+    --c-danger-bg: #f9f9f9;
+    --c-danger-title: #727272;
+    --c-danger-text: #727272;
+    --c-danger-text-accent: var(--c-text-accent);
 }
+
+.custom-container.danger {
+    background: no-repeat 98%/15% url("/img/accolade.png")!important;
+  }
+  
 
 // plugin-back-to-top
 .back-to-top {
@@ -51,7 +61,18 @@ html.dark {
     // custom container colors
     --c-tip: var(--c-brand);
     --c-tip-bg: var(--c-bg);
+    --c-danger: #22272e;
+    --c-danger-bg: #333a44;
+    --c-danger-title: #ffffff;
+    --c-danger-text: #ffffff;
+    --c-danger-text-accent: var(--c-text-accent);
   
     // code blocks vars
     --code-hl-bg-color: #363b46;
 }
+
+
+html.dark .custom-container.danger {
+    background: no-repeat 98%/15% url("/img/accolade-dark.png")!important;
+  }
+  
