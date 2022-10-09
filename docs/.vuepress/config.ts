@@ -2,7 +2,7 @@ const { description } = require('../../package')
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
-import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
+//import { mediumZoomPlugin } from '@vuepress/plugin-medium-zoom'
 import { nprogressPlugin } from '@vuepress/plugin-nprogress'
 import { chartPlugin } from 'vuepress-plugin-chart'
 
@@ -108,9 +108,9 @@ export default defineUserConfig({
    */
   plugins: [
     backToTopPlugin(),
-    mediumZoomPlugin({
+//    mediumZoomPlugin({
       // options
-    }),
+//    }),
     chartPlugin(),
     nprogressPlugin(),
   ]
