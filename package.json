@@ -6,6 +6,7 @@
   "repository": "https://github.com/magikcypress/personal-root-website-vuepress",
   "author": "magikcypress <cyp@rouquin.me>",
   "license": "MIT",
+  "type":"module",
   "dependencies": {
     "@vuepress/plugin-nprogress": "^2.0.0-beta.49",
     "vuepress-plugin-chart": "^2.0.0-alpha.25",
