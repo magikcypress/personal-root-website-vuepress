@@ -1,1 +1,0 @@
-import{_ as a,o as s,c as t,a as e,d as n}from"./app.3fa0179d.js";const o={},r=e("h1",{id:"passion",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#passion","aria-hidden":"true"},"#"),n(" Passion")],-1),c=[r];function d(i,_){return s(),t("div",null,c)}var l=a(o,[["render",d],["__file","index.html.vue"]]);export{l as default};
