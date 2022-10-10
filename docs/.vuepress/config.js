@@ -1,32 +1,26 @@
-const { description } = require('../../package');
-const { defaultTheme } = require('@vuepress/theme-default');
-const { nprogressPlugin } = require('@vuepress/plugin-nprogress');
+const { description } = require('../../package')
+const { defaultTheme } = require('@vuepress/theme-default')
+const { nprogressPlugin } = require('@vuepress/plugin-nprogress')
 const { chartPlugin } = require("vuepress-plugin-chart");
 
-/**
- * Theme configuration, here is the default theme configuration for VuePress.
- *
- * ref：https://v2.vuepress.vuejs.org/guide/theme.html
- */
-module.exports =  ({
-  extends: '@vuepress/theme-default',
-/**
- * Ref：https://v2.vuepress.vuejs.org/guide/configuration.html
- */
+module.exports = {
+  /**
+   * Ref：https://v2.vuepress.vuejs.org/guide/configuration.html
+   */
   title: 'Personal Root Website',
   /**
-  * Ref：https://v2.vuepress.vuejs.org/guide/configuration.html
-  */
+   * Ref：https://v2.vuepress.vuejs.org/guide/configuration.html
+   */
   description: description,
   /**
-  * Ref：https://npmmirror.com/package/vuepress-plugin-ipfs
-  */
-  //base: 'ipns/_ipfs2.rouquin.me/',
+   * Ref：https://npmmirror.com/package/vuepress-plugin-ipfs
+   */
+   //base: 'ipns/_ipfs2.rouquin.me/',
   /**
-  * Extra tags to be injected to the page HTML `<head>`
-  *
-  * ref：https://v2.vuepress.vuejs.org/guide/configuration.html
-  */
+   * Extra tags to be injected to the page HTML `<head>`
+   *
+   * ref：https://v2.vuepress.vuejs.org/guide/configuration.html
+   */
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
@@ -55,6 +49,11 @@ module.exports =  ({
     }
   },
 
+  /**
+   * Theme configuration, here is the default theme configuration for VuePress.
+   *
+   * ref：https://v2.vuepress.vuejs.org/guide/theme.html
+   */
   theme: defaultTheme({
     repo: 'https://github.com/magikcypress/personal-root-website-vuepress/',
     editLinks: false,
@@ -66,7 +65,7 @@ module.exports =  ({
     nextLinks: true,
     // default value is true. Set it to false to hide prev page links on all pages
     prevLinks: true,
-    // sidebar: true,
+    sidebar: true,
 /*    navbar: [
       {
         text: 'Personal life',
@@ -111,5 +110,4 @@ module.exports =  ({
     chartPlugin(),
     nprogressPlugin(),
   ]
-
-});
+}
