@@ -9,6 +9,7 @@ const { chartPlugin } = require("vuepress-plugin-chart");
  * ref：https://v2.vuepress.vuejs.org/guide/theme.html
  */
 module.exports =  ({
+  extends: '@vuepress/theme-default',
 /**
  * Ref：https://v2.vuepress.vuejs.org/guide/configuration.html
  */
