@@ -27,6 +27,8 @@ export const pagesComponents = {
   "v-2a6ed73c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a6ed73c" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress/docs/.vuepress/.temp/pages/travel/index.html.vue")),
   // path: /fr/passion/
   "v-60ca03fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-60ca03fc" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress/docs/.vuepress/.temp/pages/fr/passion/index.html.vue")),
+  // path: /fr/personal/
+  "v-e291ac36": defineAsyncComponent(() => import(/* webpackChunkName: "v-e291ac36" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress/docs/.vuepress/.temp/pages/fr/personal/index.html.vue")),
   // path: /fr/travel/AmeriqueduSud.html
   "v-157c9684": defineAsyncComponent(() => import(/* webpackChunkName: "v-157c9684" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress/docs/.vuepress/.temp/pages/fr/travel/AmeriqueduSud.html.vue")),
   // path: /fr/travel/Bresil.html
@@ -43,8 +45,6 @@ export const pagesComponents = {
   "v-54061e0c": defineAsyncComponent(() => import(/* webpackChunkName: "v-54061e0c" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress/docs/.vuepress/.temp/pages/fr/travel/Vietnam.html.vue")),
   // path: /fr/travel/
   "v-02d91c6a": defineAsyncComponent(() => import(/* webpackChunkName: "v-02d91c6a" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress/docs/.vuepress/.temp/pages/fr/travel/index.html.vue")),
-  // path: /fr/personal/
-  "v-e291ac36": defineAsyncComponent(() => import(/* webpackChunkName: "v-e291ac36" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress/docs/.vuepress/.temp/pages/fr/personal/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/mnt/c/Users/veg/F/web/personal-root-website-vuepress/docs/.vuepress/.temp/pages/404.html.vue")),
 }
