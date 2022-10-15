@@ -65,7 +65,7 @@ module.exports = {
     nextLinks: true,
     // default value is true. Set it to false to hide prev page links on all pages
     prevLinks: true,
-    sidebar: true,
+    //sidebar: true,
 /*    navbar: [
       {
         text: 'Personal life',
