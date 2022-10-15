@@ -1,7 +1,9 @@
 # README
 
-| :exclamation:  See personal-root-website-next repo for the nex relase version   |
-|---------------------------------------------------------------------------------|
+
+> **Warning**
+> See personal-root-website-next repo for the next release version
+> https://github.com/magikcypress/personal-root-website-vuepress-next
 
 My personal web site
 
