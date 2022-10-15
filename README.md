@@ -1,5 +1,8 @@
 # README
 
+| :exclamation:  See personal-root-website-next repo for the nex relase version   |
+|---------------------------------------------------------------------------------|
+
 My personal web site
 
 ## Installation
